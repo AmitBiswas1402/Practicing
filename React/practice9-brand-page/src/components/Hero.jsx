@@ -16,7 +16,7 @@ function Hero() {
             </p>
             
             <div className='font-bold text-left pt-6 gap-3'>
-                <button className='bg-red-600 px-7 py-2 rounded-xl text-white mr-10 hover:bg-red-700'>Shop Now</button>
+                <button className='bg-red-600 px-7 py-2 rounded-xl text-white mr-5 hover:bg-red-700'>Shop Now</button>
                 <button className='bg-blue-600 px-7 py-2 rounded-xl text-white hover:bg-blue-700'>Category</button>
             </div>
 
